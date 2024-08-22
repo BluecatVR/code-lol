@@ -1,0 +1,6 @@
+print ("hello welcome")
+print ("what is your name")
+name = input()
+print (name)
+print("oh nice name")
+print ("why did you click on this game")
